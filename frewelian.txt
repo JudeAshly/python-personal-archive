@@ -1,0 +1,7 @@
+book                                                                                                                    livre                                                                                                                   prenota                                                                                                                 llyfr book
+livre
+prenota
+llyfr
+==linoty
+
+
